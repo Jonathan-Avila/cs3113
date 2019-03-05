@@ -62,7 +62,7 @@ int main(int argc, char *argv[])
 
 	GLuint donut = LoadTexture(RESOURCE_FOLDER"donut.png");
 	GLuint ice_cream = LoadTexture(RESOURCE_FOLDER"ice_cream.png");
-	GLuint cake = LoadTexture(RESOURCE_FOLDER"Cake.png");
+	GLuint cake = LoadTexture(RESOURCE_FOLDER"cake.png");
 	GLuint birthday = LoadTexture(RESOURCE_FOLDER"birthday.jpg");
 
 	glm::mat4 modelMatrix = glm::mat4(1.0f);
