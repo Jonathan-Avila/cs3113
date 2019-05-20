@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\jonat\desktop\cs3113_prof\project_template\windows\nyucodebase\nyucodebase\main.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonat\desktop\cs3113_prof\project_template\windows\nyucodebase\nyucodebase\main.cpp(221): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\jonat\desktop\cs3113_prof\project_template\windows\nyucodebase\nyucodebase\main.cpp(225): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\jonat\desktop\cs3113_prof\project_template\windows\nyucodebase\nyucodebase\main.cpp(254): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\jonat\Desktop\CS3113_Prof\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
