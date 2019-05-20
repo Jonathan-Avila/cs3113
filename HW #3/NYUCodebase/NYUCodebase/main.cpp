@@ -315,7 +315,7 @@ int main(int argc, char *argv[])
 	fontTexture = LoadTexture("font1.png");
 	SheetSprite player = SheetSprite(spriteSheetTexture, 247.0f / 1024.0f, 84.0f / 1024.0f, 99.0f / 1024.0f, 75.0f / 1024.0f, 0.2f);
 
-	Entity Object(0.0f, -0.9f, 1.0f);
+	Entity Object(0.0f, -0.8f, 1.0f);
 	Object.sprite = player;
 	Object.size.x = player.size * (player.width / player.height);
 	Object.size.y = player.size;
