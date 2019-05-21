@@ -35,4 +35,9 @@
   <ItemGroup>
     <Image Include="sheet.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="JFlareMap.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
